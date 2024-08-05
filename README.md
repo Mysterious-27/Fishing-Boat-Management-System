@@ -4,11 +4,9 @@
 The Fishing Boat Management System is designed to streamline the operations of fishing boats, including scheduling, tracking, and managing resources. Developed using Java in Apache NetBeans IDE, this system aims to improve efficiency and provide real-time updates for better decision-making.This project was done using Apache Netbeans IDE21. This is implemented by using JFrame of Java.he javax.swing. JFrame class is a type of container which inherits the java.awt.Frame class. JFrame works like the main window where components like labels, buttons, textfields are added to create a GUI.
 
 ## Features
-- **Boat Tracking:** Monitor the location and status of fishing boats in real-time.
 - **Scheduling:** Manage and schedule fishing trips and boat maintenance.
 - **Resource Management:** Track and manage fishing equipment and supplies.
 - **User Management:** Different user roles with varying access levels for enhanced security.
-- **Data Analytics:** Generate reports and analyze data related to fishing operations.
 
 ## Installation
 1. **Clone the Repository:**
