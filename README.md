@@ -48,9 +48,6 @@ If you would like to contribute to this project, please follow these steps:
 
 # Change your Conn.java file by adding your database details.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
-For any questions or suggestions, please contact [your-email@example.com].
+For any questions or suggestions, please contact [adityapv27@gmail.com] or [karu6167@gmail.com].
 
