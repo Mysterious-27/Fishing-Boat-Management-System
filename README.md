@@ -45,7 +45,7 @@ If you would like to contribute to this project, please follow these steps:
 6. Open a Pull Request.
 
 ## Contact
-For any questions or suggestions, please contact [adityapv27@gmail.com] or [karu6167@gmail.com].
+For any questions or suggestions, please contact adityapv27@gmail.com or karu6167@gmail.com.
 
 ## Change your Conn.java file by adding your database details.
 ## I have included the jar file in case you require.
